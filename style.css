@@ -160,3 +160,15 @@ footer {
         height: 220px;
     }
 }
+@media (max-width: 600px) {
+    nav {
+        display: flex;
+        flex-wrap: wrap;
+        justify-content: center;
+        gap: 20px;
+    }
+
+    nav a {
+        margin: 0;
+    }
+        }

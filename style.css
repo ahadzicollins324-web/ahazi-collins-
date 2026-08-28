@@ -174,13 +174,3 @@ footer {
         margin: 0;
     }
         }
-img[src="profile.png"] {
-    width: 350px !important;
-    height: 350px !important;
-    object-fit: cover !important;
-    object-position: center 15% !important;
-    border-radius: 50% !important;
-    border: 8px solid #38bdf8 !important;
-    display: block !important;
-    margin: 0 auto 60px !important;
-}

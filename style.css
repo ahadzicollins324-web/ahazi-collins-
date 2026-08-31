@@ -191,15 +191,16 @@ footer {
     margin-bottom: 0;
 }
 #contact a {
-    display: inline-block;
-    background: #38bdf8;
-    color: #000;
-    padding: 12px 20px;
-    margin: 8px 0;
-    border-radius: 8px;
-    text-decoration: none;
-    font-weight: bold;
+    display: inline-block !important;
+    background: #38bdf8 !important;
+    color: #000 !important;
+    padding: 12px 20px !important;
+    margin: 8px 0 !important;
+    border-radius: 8px !important;
+    text-decoration: none !important;
+    font-weight: bold !important;
 }
+
 
 #contact a:hover {
     opacity: 0.8;

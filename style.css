@@ -174,3 +174,19 @@ footer {
         margin: 0;
     }
         }
+.project-card {
+    background: #182238;
+    padding: 20px;
+    margin: 20px 0;
+    border-radius: 15px;
+    border: 1px solid #2b3a55;
+}
+
+.project-card h3 {
+    margin-top: 0;
+    color: #38bdf8;
+}
+
+.project-card p {
+    margin-bottom: 0;
+}
